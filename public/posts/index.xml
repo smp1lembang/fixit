@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>All Posts - Blog</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>All Posts | Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 21:14:42 &#43;0800</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 21:14:42 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
   <title>Ini apa</title>
-  <link>https://example.org/my-first-post/</link>
+  <link>http://localhost:1313/posts/583bc6c/</link>
   <pubDate>Fri, 26 Apr 2024 21:14:42 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/my-first-post/</guid>
+  <guid>http://localhost:1313/posts/583bc6c/</guid>
   <description><![CDATA[gimana jadinya ini]]></description>
 </item>
 <item>
   <title>Pengumuman Penerima Beasiswa PIP Periode April 2024 SK Pemberian &amp; SK Nominasi</title>
-  <link>https://example.org/penerima-pip-2024-04/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2024-04/</link>
   <pubDate>Fri, 26 Apr 2024 09:37:33 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2024-04/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2024-04/</guid>
   <description><![CDATA[Pada pengumuman PIP Periode April 2024 kali ini terdapat 36 siswa Penerima PIP.
 SK Pemberian (penerima lanjutan) = 104 siswa (Tahap 4, 8, 11, 14, 17, 20)
 SK Nominasi (Perlu aktivasi) = 17 siswa (Tahap 4, 10, 13, 16)
@@ -25,10 +25,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Pengumuman Penerima Beasiswa PIP Periode November 2023 SK Pemberian &amp; SK Nominasi</title>
-  <link>https://example.org/tahun-2024/</link>
+  <link>http://localhost:1313/posts/tahun-2024/</link>
   <pubDate>Fri, 05 Apr 2024 09:37:33 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/tahun-2024/</guid>
+  <guid>http://localhost:1313/posts/tahun-2024/</guid>
   <description><![CDATA[Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP.
 SK Pemberian (penerima lanjutan) = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
 SK Nominasi (Perlu aktivasi) = 4 siswa (Tahap 66, 69, 93)
@@ -37,10 +37,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Hanya tes</title>
-  <link>https://example.org/hanya-test/</link>
+  <link>http://localhost:1313/posts/hanya-test/</link>
   <pubDate>Wed, 13 Dec 2023 09:37:33 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/hanya-test/</guid>
+  <guid>http://localhost:1313/posts/hanya-test/</guid>
   <description><![CDATA[Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP.
 SK Pemberian (penerima lanjutan) = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
 SK Nominasi (Perlu aktivasi) = 4 siswa (Tahap 66, 69, 93)
@@ -49,10 +49,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>ngantuk</title>
-  <link>https://example.org/ngantuk/</link>
+  <link>http://localhost:1313/posts/ngantuk/</link>
   <pubDate>Wed, 13 Dec 2023 09:37:33 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/ngantuk/</guid>
+  <guid>http://localhost:1313/posts/ngantuk/</guid>
   <description><![CDATA[Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP.
 SK Pemberian (penerima lanjutan) = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
 SK Nominasi (Perlu aktivasi) = 4 siswa (Tahap 66, 69, 93)
@@ -61,10 +61,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Pengumuman Penerima Beasiswa PIP Periode November 2023 SK Pemberian &amp; SK Nominasi</title>
-  <link>https://example.org/penerima-pip-2023-11/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2023-11/</link>
   <pubDate>Wed, 29 Nov 2023 09:37:33 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2023-11/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2023-11/</guid>
   <description><![CDATA[Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP.
 SK Pemberian (penerima lanjutan) = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
 SK Nominasi (Perlu aktivasi) = 4 siswa (Tahap 66, 69, 93)
@@ -73,20 +73,20 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Pengumuman Penerima PIP 2023 09 Siswa Pemberian</title>
-  <link>https://example.org/penerima-pip-2023-09-siswa-pemberian/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2023-09-siswa-pemberian/</link>
   <pubDate>Tue, 05 Sep 2023 10:17:05 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2023-09-siswa-pemberian/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2023-09-siswa-pemberian/</guid>
   <description><![CDATA[Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Juli 2023.
 Pada pengumuman PIP bulan September 2023 kali ini terdapat 5 siswa merupakan Siswa SK Pemberian (penerima lanjutan) Berikut daftar nama penerima PIP Maret 2022
 Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NISN NAMA ROMBEL TAHAP 1 0082521872 NUR FADZLYZA 9.1 158 2 0071723088 HASNIA 9.]]></description>
 </item>
 <item>
   <title>Pengumuman Penerima PIP Juli 2023</title>
-  <link>https://example.org/penerima-pip-2023-07-siswa-nominasi/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2023-07-siswa-nominasi/</link>
   <pubDate>Mon, 10 Jul 2023 11:43:24 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2023-07-siswa-nominasi/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2023-07-siswa-nominasi/</guid>
   <description><![CDATA[Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Juli 2023.
 Pada pengumuman PIP bulan Juli 2023 kali ini terdapat 26 siswa Penerima PIP, 21 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 5 siswa merupakan Siswa SK Nominasi (Perlu aktivasi)
 Berikut daftar nama penerima PIP Maret 2022
@@ -94,10 +94,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Penerima PIP SK Pemberian April 2023</title>
-  <link>https://example.org/penerima-pip-2023-04-sk-pemberian/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2023-04-sk-pemberian/</link>
   <pubDate>Wed, 15 Feb 2023 23:20:00 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2023-04-sk-pemberian/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2023-04-sk-pemberian/</guid>
   <description><![CDATA[Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode April 2023.
 Pada pengumuman PIP kali ini terdapat 62 Penerima, semua penerima merupakan Siswa SK Pemberian (Dana telah disalurkan ke rekening) yang terdiri dari tahap 1, 4, 7 hingga tahap 10.
 Berikut daftar namanya
@@ -105,10 +105,10 @@ Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NI
 </item>
 <item>
   <title>Penerima PIP SK Pemberian Sepanjang Tahun 2022</title>
-  <link>https://example.org/penerima-pip-2022-121-sk-pemberian-sepanjang-tahun-2022/</link>
+  <link>http://localhost:1313/posts/penerima-pip-2022-121-sk-pemberian-sepanjang-tahun-2022/</link>
   <pubDate>Thu, 05 Jan 2023 00:06:07 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>https://example.org/penerima-pip-2022-121-sk-pemberian-sepanjang-tahun-2022/</guid>
+  <guid>http://localhost:1313/posts/penerima-pip-2022-121-sk-pemberian-sepanjang-tahun-2022/</guid>
   <description><![CDATA[Berikut daftar nama penerima PIP sepanjang tahun 2022
 Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NISN NAMA ROMBEL TAHAP KETERANGAN 1 0071089875 SYAMSINAR 9.6 1 Cair pada 14 Maret 2022 2 0078649023 RIANTO 9.6 1 Cair pada 14 Maret 2022 3 0074838461 NISRA 9.2 1 Cair pada 14 Maret 2022 4 0075314487 MUH. AIDIL 9.2 1 Cair pada 14 Maret 2022 5 0061612469 JUMRIANI 9.1 1 Cair pada 14 Maret 2022 6 0074527520 MUHAMMAD AZWAN 9.]]></description>
 </item>

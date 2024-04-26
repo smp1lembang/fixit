@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>All Posts - My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>All Posts | My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 21:14:42 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Ini apa</title>
+  <link>http://localhost:1313/posts/583bc6c/</link>
+  <pubDate>Fri, 26 Apr 2024 21:14:42 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/583bc6c/</guid>
+  <description><![CDATA[gimana jadinya ini]]></description>
+</item>
+<item>
+  <title>Hanya tes</title>
+  <link>http://localhost:1313/posts/hanya-test/</link>
+  <pubDate>Wed, 13 Dec 2023 09:37:33 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/hanya-test/</guid>
+  <description><![CDATA[Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP.
+SK Pemberian (penerima lanjutan) = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
+SK Nominasi (Perlu aktivasi) = 4 siswa (Tahap 66, 69, 93)
+Berikut daftar nama siswa penerima bantuan PIP
+Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NISN NAMA ROMBEL TAHAP 1 0107111873 CACA 7,1 250 2 0117864592 ZULKIPLI 7,1 250 3 0117033015 ARIA SAPUTRA 7,2 250 4 0101119545 EDWIN ZUL QAIMAN 7,2 250 5 0109975637 HASRIANI 7,2 250 6 3135550822 MUHAMMAD RISKY 7,2 312 7 0118456902 NENGSIZERA 7,2 250 8 0102418124 NURUL EKA SEPTIANI 7,2 250 9 0116085795 AHMAD FADHIL ARISKI 7,3 250 10 0111249148 FILMA 7,3 250 11 0114479399 NURUL AVIKA 7,3 250 12 0106961142 DIRMA 7,4 250 13 0112575146 FIRDA 7,4 250 14 0103526610 MUH.]]></description>
+</item>
+<item>
+  <title>Pengumuman Penerima PIP Juli 2023</title>
+  <link>http://localhost:1313/posts/penerima-pip-2023-07-siswa-nominasi/</link>
+  <pubDate>Mon, 10 Jul 2023 11:43:24 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/penerima-pip-2023-07-siswa-nominasi/</guid>
+  <description><![CDATA[Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Juli 2023.
+Pada pengumuman PIP bulan Juli 2023 kali ini terdapat 26 siswa Penerima PIP, 21 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 5 siswa merupakan Siswa SK Nominasi (Perlu aktivasi)
+Berikut daftar nama penerima PIP Maret 2022
+Siswa SK PemberianKlik untuk melihat daftar penerimaDaftar nama penerima NO NISN NAMA ROMBEL TAHAP 1 0083560898 INDAH FEBRIANI 7.]]></description>
+</item>
+</channel>
+</rss>
